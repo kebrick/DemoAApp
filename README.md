@@ -1,0 +1,2 @@
+# DemoAApp
+Demonstrative android app 
